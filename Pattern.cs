@@ -83,7 +83,7 @@ namespace CA
         }
     }
 
-    struct Choord
+    class Choord
     {
         public int X { get; set; }
         public int Y { get; set; }
